@@ -88,6 +88,6 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+David Henthorn is an Associate Professor of Chemical Engineering at Rose-Hulman Institute of Technology in Terre Haute, IN. As one of the pre-eminent colleges for engineering education, Rose-Hulman is an excellent site for research in the application of modern tools from computer science and software engineering to the chemical process field. We work with artificial intelligence, augmented reality, and computing at the edge, in the fog, and in the cloud. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
