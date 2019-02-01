@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Process Operations Research Group"
+name = "Process Ops Research Group"
 
 # Is this the primary user of the site?
 superuser = true
@@ -20,26 +20,23 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Industrial Control Systems,
+  Data Acquisition,
+  Analytics,
+  Artificial Intelligence",
+  "Srtifical Intelligence"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Chemical Engineering"
+  institution = "Purdue University"
+  year = 2004
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS Chemical Engineering"
+  institution = "Purdue University"
+  year = 1999
 
 # Social/Academic Networking
 #
@@ -60,24 +57,14 @@ interests = [
 #   Full list: https://jpswalsh.github.io/academicons/
 
 [[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
-
-[[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/GeorgeCushen"
 
 [[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
-[[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/processops"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -90,4 +77,3 @@ interests = [
 
 David Henthorn is an Associate Professor of Chemical Engineering at Rose-Hulman Institute of Technology in Terre Haute, IN. As one of the pre-eminent colleges for engineering education, Rose-Hulman is an excellent site for research in the application of modern tools from computer science and software engineering to the chemical process field. We work with artificial intelligence, augmented reality, and computing at the edge, in the fog, and in the cloud. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
