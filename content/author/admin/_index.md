@@ -10,7 +10,7 @@ role = "Chemical Engineering Department"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Rose-Hulman Institute of Technology", url = "www.rose-hulman.edu" } ]
+organizations = [ { name = "Rose-Hulman Institute of Technology", url = "www.rose-hulman.edu"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Our research group utilizes modern tools from computer science and software engineering to make informed decisions about chemical processes"
