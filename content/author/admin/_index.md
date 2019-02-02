@@ -20,7 +20,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Industrial Control Systems","Data Acquisition", "Analytics", "Artificial Intelligence","Machine Learning"
+  "Industrial Control Systems","Data Acquisition", "Analytics","Machine Learning"
 ]
 
 # List qualifications (such as academic degrees)
@@ -55,7 +55,7 @@ interests = [
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/processops"
 
 [[social]]
   icon = "github"
